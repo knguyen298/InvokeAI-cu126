@@ -87,7 +87,7 @@ dependencies = [
 ]
 
 "cpu" = ["torch==2.7.1+cpu", "torchvision==0.22.1+cpu"]
-"cuda" = ["torch==2.7.1+cu128", "torchvision==0.22.1+cu128"]
+"cuda" = ["torch==2.7.1+cu126", "torchvision==0.22.1+cu126"]
 "rocm" = [
   "torch==2.7.1+rocm6.3",
   "torchvision==0.22.1+rocm6.3",
